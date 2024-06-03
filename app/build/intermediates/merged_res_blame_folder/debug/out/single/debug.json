@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.game.app-merged_res-32:/font_gamefont.ttf.flat",
+        "source": "com.example.game.app-main-34:/font/gamefont.ttf"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.game.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.game.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.game.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/font_scorefont.ttf.flat",
+        "source": "com.example.game.app-main-34:/font/scorefont.ttf"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.game.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/font_fonts.xml.flat",
+        "source": "com.example.game.app-main-34:/font/fonts.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.game.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/drawable_pipe2.jpg.flat",
+        "source": "com.example.game.app-main-34:/drawable/pipe2.jpg"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/drawable_pipe1.jpg.flat",
+        "source": "com.example.game.app-main-34:/drawable/pipe1.jpg"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.game.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/drawable_bird.png.flat",
+        "source": "com.example.game.app-main-34:/drawable/bird.png"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.game.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.game.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.game.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
